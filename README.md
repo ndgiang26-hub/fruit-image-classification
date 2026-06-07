@@ -17,11 +17,11 @@ Project sử dụng mạng CNN để phân loại 3 loại trái cây:
 ## Cấu trúc project
 
 fruit_project/
-├── train_fruit.py
-├── test_fruit.py
-├── evaluate_test.py
-├── fruit_model.h5
-└── dataset/
+ train_fruit.py
+ test_fruit.py
+ evaluate_test.py
+ fruit_model.h5
+ dataset/
 
 ## Huấn luyện mô hình
 
