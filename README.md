@@ -8,7 +8,7 @@ Project sử dụng mạng CNN để phân loại 3 loại trái cây:
 - Banana
 - Orange
 
-## Công nghệ sử dụng
+## Thư viện sử dụng
 
 - Python
 - TensorFlow/Keras
@@ -39,7 +39,7 @@ fruit_model.h5
 
 Sửa:
 
-img_path = "test.jpg"
+img_path = "test.png"
 
 Sau đó chạy:
 
